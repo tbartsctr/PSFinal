@@ -65,7 +65,7 @@ Run the frontend application:
 bash
 Copy
 npm start
-The frontend will be accessible on http://localhost:3000.
+
 
 Database
 MongoDB will store account data and product information.
