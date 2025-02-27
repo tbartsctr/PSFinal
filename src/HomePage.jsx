@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Layout from "./Layout";
 import productImage from "./product-image.png"
+import { Link } from "react-router-dom";
 
 
 
@@ -14,7 +15,7 @@ const BackgroundSection = () => {
       <h1>Empowering Patients & Transforming Lives</h1>
       <h2>Integrative and Functional Medicine. Acupuncture. Chiropractic Care. Advanced Allergy Therapeutics. Nutrition Counseling. Medical Message. Rolfing. Energy Healing.</h2>
       <button id="backgroundBtn1">Learn More</button>
-      <button id="backgroundBtn2">Login to Patient Portal</button>
+        <button id="backgroundBtn2">Login to Patient Portal</button>
     </div>
   );
 };

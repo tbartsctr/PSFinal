@@ -377,3 +377,14 @@ h8{
   margin-bottom: 50px;
   margin-right: 240px;
 }
+
+.menuBar a {
+  text-decoration: none;
+  color: inherit; 
+}
+
+
+.menuBar a:hover {
+  text-decoration: none; 
+  color: #000; 
+}

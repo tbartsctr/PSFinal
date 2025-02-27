@@ -44,11 +44,22 @@ function Layout ({ children }) {
     
         <div className="menuBar">
               <ul>
-          <li>About Us</li>
+          <li>
+            <Link to="/about-us">
+              About Us
+            </Link>
+          </li>
           <li>Become a Patient</li>
-          <li>Our Approach</li>
+          <li>
+            <Link to="/create-account">
+              Login
+            </Link></li>
+            
           <li>Resources</li>
-          <li>Shop</li>
+          <li> 
+            <Link to="/shop">
+              Shop
+            </Link></li>
         </ul>
       </div>
             <main>{children}</main>
