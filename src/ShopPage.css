@@ -1,0 +1,58 @@
+.shopHeaderDiv{
+    border: solid #dbf0fe 2px;
+    height: 300px;
+    width: 100%;
+    background-color: #dbf0fe;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+#shopRouteHeaderTxt{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    color: #555555;
+   order: 1 !important;
+   margin-top: 20px;
+   margin-left: 15vw;
+   
+    
+}
+
+#productHeaderTxt{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #555555;
+    max-width: 500px;
+    font-weight: 400;
+    font-size: 60px;
+    margin-top: 90px;
+    
+    
+}
+
+.productList{
+    display: flex;
+}
+
+#productName{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-weight: 500;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 6vw;
+}
+
+#productDescription{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    margin-top: 10vh;
+    padding-left: 5vw;
+}
+
+#priceTxt{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 5vw;
+}
