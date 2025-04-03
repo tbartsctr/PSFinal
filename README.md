@@ -4,6 +4,8 @@ This mock website is built using React for the frontend, and MongoDB for the bac
 
 -----> MONGO DB CLUSTER CURRENTLY PAUSED SO CREATE ACCOUNT WILL NOT WORK AND PRODUCT PAGE WILL NOT POPULATE <-------
 
+----> CLICK ON AIM LOGO TO ACCESS HOMEPAGE <-----
+
 Features
 Homepage: The main landing page with links to:
 Shop Page
