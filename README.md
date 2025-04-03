@@ -2,6 +2,8 @@ Mock Website with React, MongoDB, and CRUD Features
 Overview
 This mock website is built using React for the frontend, and MongoDB for the backend. It features full CRUD (Create, Read, Update, Delete) functionality to manage user accounts and products. Users can interact with the website to create and manage accounts, view products, and more. The backend is powered by Node.js and Express, while the MongoDB database stores all the relevant data.
 
+-----> MONGO DB CLUSTER CURRENTLY PAUSED SO CREATE ACCOUNT WILL NOT WORK AND PRODUCT PAGE WILL NOT POPULATE <-------
+
 Features
 Homepage: The main landing page with links to:
 Shop Page
